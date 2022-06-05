@@ -1,0 +1,15 @@
+.text_primary {
+  color: #ff6f00;
+}
+.bg_primary {
+  background-color: #ff6f00;
+}
+
+.bag-icon {
+  position: relative;
+}
+.product-in-cart {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
