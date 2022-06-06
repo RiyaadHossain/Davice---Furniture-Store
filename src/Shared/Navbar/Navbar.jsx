@@ -7,7 +7,7 @@ import Logo from "../../Asset/Icon/DeviciLogo.jpg";
 
 const Navbar = () => {
   return (
-    <div class="navbar container mx-auto bg-transparent">
+    <div class="navbar container h-20 mx-auto bg-transparent">
       <div class="navbar-start flex-shrink">
         <div class="dropdown">
           <label tabindex="0" class="btn btn-ghost lg:hidden">
