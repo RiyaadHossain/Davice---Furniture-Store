@@ -44,3 +44,88 @@
   background-color: #ff6f00;
   border: 0;
 }
+/* ====================================================== */
+.shop-by-text {
+  font-size: 34px;
+  line-height: 40px;
+  font-weight: 500;
+}
+.shop-by-gray-text {
+  font-size: 24px;
+  line-height: 35px;
+  font-weight: 600;
+  color: rgb(100, 116, 139);
+}
+.shop-by-colored {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.shopBy-underline1 {
+  width: 48px;
+  height: 2px;
+  background: #ff6f00;
+}
+.shopBy-underline2 {
+  width: 125px;
+  height: 1px;
+  background: black;
+}
+.shop-by-hover,
+.shopBy-underline2 {
+  transition: all ease-in-out 0.5s;
+}
+.shop-by-hover:hover .shopBy-underline2 {
+  background: #ff6f00;
+}
+.photo-text-shop-by {
+  position: absolute;
+  bottom: 5%;
+  left: 38.5%;
+  font-weight: 600;
+}
+.inside-box-shop-by-1{
+  position: absolute;
+  top: 15%;
+  left: 14%;
+  border: 2px solid black;
+  width: 500px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.inside-box-shop-by-2{
+  position: absolute;
+  top: 15%;
+  left: 14%;
+  border: 2px solid white;
+  width: 500px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.image-box-shop-by{
+  overflow: hidden;
+}
+.img-section-shop-by{
+  transition: all linear .5s;
+}
+.image-box-shop-by:hover .img-section-shop-by{
+  overflow: hidden;
+  transform: scale(1.2);
+}
+.inside-btn-shop-by{
+  background-color: #ff6f00;
+  padding: 10px 30px;
+  border-radius: 30px;
+  font-weight: 600;
+  transition: all linear .5s;
+}
+.inside-btn-shop-by:hover{
+  background-color: #db6206;
+}

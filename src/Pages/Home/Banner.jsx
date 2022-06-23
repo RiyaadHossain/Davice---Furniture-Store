@@ -21,12 +21,12 @@ const Banner = () => {
                 </p>
               </div>
               {/* Part 2 */}
-              <div className="flex flex-col my-7">
+              <div className="flex flex-col my-10">
                 <p className="second-div">New Arrival</p>
                 <div className="banner-second-line"></div>
               </div>
               {/* Part 3 */}
-              <div className="third-div mb-7">Chair <br /> Collection</div>
+              <div className="third-div mb-10">Chair <br /> Collection</div>
               {/* Part 4 */}
               <div>
                 <button className="btn banner-btn rounded-sm px-8">Shop Now</button>
@@ -56,12 +56,12 @@ const Banner = () => {
                 </p>
               </div>
               {/* Part 2 */}
-              <div className="flex flex-col my-7">
+              <div className="flex flex-col my-10">
                 <p className="second-div">New Arrival</p>
                 <div className="banner-second-line"></div>
               </div>
               {/* Part 3 */}
-              <div className="third-div mb-7">New <br /> Collection</div>
+              <div className="third-div mb-10">New <br /> Collection</div>
               {/* Part 4 */}
               <div>
                 <button className="btn banner-btn rounded-sm px-8 text-inherit">Shop Now</button>
@@ -91,12 +91,12 @@ const Banner = () => {
                 </p>
               </div>
               {/* Part 2 */}
-              <div className="flex flex-col my-7">
+              <div className="flex flex-col my-10">
                 <p className="second-div">New Arrival</p>
                 <div className="banner-second-line"></div>
               </div>
               {/* Part 3 */}
-              <div className="third-div mb-7">Spring <br /> Collection</div>
+              <div className="third-div mb-10">Spring <br /> Collection</div>
               {/* Part 4 */}
               <div>
                 <button className="btn banner-btn rounded-sm px-8">Shop Now</button>
